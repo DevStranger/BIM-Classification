@@ -1,0 +1,11 @@
+GlobalId,Name,ObjectType,Description,Text
+1X2Y3Z,Ściana zewnętrzna,IfcWall,"Ściana zewnętrzna, betonowa, grubość 25cm","Ściana zewnętrzna, IfcWall, Ściana zewnętrzna, betonowa, grubość 25cm"
+4A5B6C,Drzwi jednoskrzydłowe,IfcDoor,"Drzwi z drewna, malowane, w otworze 90cm","Drzwi jednoskrzydłowe, IfcDoor, Drzwi z drewna, malowane, w otworze 90cm"
+7D8E9F,Okno PCV,IfcWindow,"Okno dwuszybowe PCV, rozwierno-uchylne, szerokość 120cm","Okno PCV, IfcWindow, Okno dwuszybowe PCV, rozwierno-uchylne, szerokość 120cm"
+0A1B2C,Strop żelbetowy,IfcSlab,"Strop monolityczny z betonu B25, grubość 20cm","Strop żelbetowy, IfcSlab, Strop monolityczny z betonu B25, grubość 20cm"
+3E4F5G,Słup stalowy,IfcColumn,"Słup stalowy HEA, wysokość 3m","Słup stalowy, IfcColumn, Słup stalowy HEA, wysokość 3m"
+6H7I8J,Płyta fundamentowa,IfcSlab,"Płyta żelbetowa, fundamentowa, grubość 30cm","Płyta fundamentowa, IfcSlab, Płyta żelbetowa, fundamentowa, grubość 30cm"
+9K0L1M,Dach dwuspadowy,IfcRoof,"Konstrukcja drewniana, pokrycie blachą trapezową","Dach dwuspadowy, IfcRoof, Konstrukcja drewniana, pokrycie blachą trapezową"
+2N3O4P,Balustrada stalowa,IfcRailing,Balustrada z wypełnieniem z prętów stalowych,"Balustrada stalowa, IfcRailing, Balustrada z wypełnieniem z prętów stalowych"
+5Q6R7S,Schody prefabrykowane,IfcStair,"Schody żelbetowe, prefabrykowane, 15 stopni","Schody prefabrykowane, IfcStair, Schody żelbetowe, prefabrykowane, 15 stopni"
+8T9U0V,Drzwi przeciwpożarowe,IfcDoor,"Drzwi EI60 stalowe, dymoszczelne","Drzwi przeciwpożarowe, IfcDoor, Drzwi EI60 stalowe, dymoszczelne"

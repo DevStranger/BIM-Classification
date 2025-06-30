@@ -1,0 +1,62 @@
+[
+  {
+    "code": "21.11.10",
+    "name": "Ściany zewnętrzne",
+    "definition": "Elementy ograniczające przestrzeń budynku od zewnątrz",
+    "full_text": "Ściany zewnętrzne. Elementy ograniczające przestrzeń budynku od zewnątrz"
+  },
+  {
+    "code": "21.12.10",
+    "name": "Ściany wewnętrzne",
+    "definition": "Elementy dzielące przestrzeń wewnątrz budynku",
+    "full_text": "Ściany wewnętrzne. Elementy dzielące przestrzeń wewnątrz budynku"
+  },
+  {
+    "code": "23.31.10",
+    "name": "Drzwi zewnętrzne",
+    "definition": "Elementy umożliwiające komunikację między wnętrzem a otoczeniem",
+    "full_text": "Drzwi zewnętrzne. Elementy umożliwiające komunikację między wnętrzem a otoczeniem"
+  },
+  {
+    "code": "23.32.10",
+    "name": "Drzwi wewnętrzne",
+    "definition": "Drzwi umożliwiające przejścia wewnętrzne",
+    "full_text": "Drzwi wewnętrzne. Drzwi umożliwiające przejścia wewnętrzne"
+  },
+  {
+    "code": "23.21.10",
+    "name": "Okna",
+    "definition": "Elementy przezroczyste umożliwiające doświetlenie i wentylację",
+    "full_text": "Okna. Elementy przezroczyste umożliwiające doświetlenie i wentylację"
+  },
+  {
+    "code": "22.31.10",
+    "name": "Stropy",
+    "definition": "Poziome przegrody oddzielające kondygnacje",
+    "full_text": "Stropy. Poziome przegrody oddzielające kondygnacje"
+  },
+  {
+    "code": "21.41.10",
+    "name": "Słupy",
+    "definition": "Elementy pionowe przenoszące obciążenia",
+    "full_text": "Słupy. Elementy pionowe przenoszące obciążenia"
+  },
+  {
+    "code": "21.51.10",
+    "name": "Fundamenty",
+    "definition": "Elementy przenoszące obciążenia budynku na grunt",
+    "full_text": "Fundamenty. Elementy przenoszące obciążenia budynku na grunt"
+  },
+  {
+    "code": "22.11.10",
+    "name": "Dachy",
+    "definition": "Elementy osłaniające budynek od góry",
+    "full_text": "Dachy. Elementy osłaniające budynek od góry"
+  },
+  {
+    "code": "23.41.10",
+    "name": "Schody",
+    "definition": "Elementy komunikacyjne łączące kondygnacje",
+    "full_text": "Schody. Elementy komunikacyjne łączące kondygnacje"
+  }
+]
