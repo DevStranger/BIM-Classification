@@ -1,0 +1,92 @@
+[
+  {
+    "GlobalId": "9K0L1M",
+    "Opis": "Dach dwuspadowy, IfcRoof, Konstrukcja drewniana, pokrycie blachą trapezową",
+    "Predykcja": {
+      "Kod_CCI": "22.11.10",
+      "Nazwa": "Dachy",
+      "Podobieństwo": 0.745
+    }
+  },
+  {
+    "GlobalId": "1X2Y3Z",
+    "Opis": "Ściana zewnętrzna, IfcWall, Ściana zewnętrzna, betonowa, grubość 25cm",
+    "Predykcja": {
+      "Kod_CCI": "21.12.10",
+      "Nazwa": "Ściany wewnętrzne",
+      "Podobieństwo": 0.717
+    }
+  },
+  {
+    "GlobalId": "4A5B6C",
+    "Opis": "Drzwi jednoskrzydłowe, IfcDoor, Drzwi z drewna, malowane, w otworze 90cm",
+    "Predykcja": {
+      "Kod_CCI": "23.32.10",
+      "Nazwa": "Drzwi wewnętrzne",
+      "Podobieństwo": 0.6835
+    }
+  },
+  {
+    "GlobalId": "2N3O4P",
+    "Opis": "Balustrada stalowa, IfcRailing, Balustrada z wypełnieniem z prętów stalowych",
+    "Predykcja": {
+      "Kod_CCI": "21.11.10",
+      "Nazwa": "Ściany zewnętrzne",
+      "Podobieństwo": 0.664
+    }
+  },
+  {
+    "GlobalId": "8T9U0V",
+    "Opis": "Drzwi przeciwpożarowe, IfcDoor, Drzwi EI60 stalowe, dymoszczelne",
+    "Predykcja": {
+      "Kod_CCI": "N/A",
+      "Nazwa": "Brak jednoznacznej klasyfikacji",
+      "Podobieństwo": 0.5878
+    }
+  },
+  {
+    "GlobalId": "0A1B2C",
+    "Opis": "Strop żelbetowy, IfcSlab, Strop monolityczny z betonu B25, grubość 20cm",
+    "Predykcja": {
+      "Kod_CCI": "N/A",
+      "Nazwa": "Brak jednoznacznej klasyfikacji",
+      "Podobieństwo": 0.5714
+    }
+  },
+  {
+    "GlobalId": "3E4F5G",
+    "Opis": "Słup stalowy, IfcColumn, Słup stalowy HEA, wysokość 3m",
+    "Predykcja": {
+      "Kod_CCI": "N/A",
+      "Nazwa": "Brak jednoznacznej klasyfikacji",
+      "Podobieństwo": 0.5318
+    }
+  },
+  {
+    "GlobalId": "5Q6R7S",
+    "Opis": "Schody prefabrykowane, IfcStair, Schody żelbetowe, prefabrykowane, 15 stopni",
+    "Predykcja": {
+      "Kod_CCI": "N/A",
+      "Nazwa": "Brak jednoznacznej klasyfikacji",
+      "Podobieństwo": 0.5304
+    }
+  },
+  {
+    "GlobalId": "7D8E9F",
+    "Opis": "Okno PCV, IfcWindow, Okno dwuszybowe PCV, rozwierno-uchylne, szerokość 120cm",
+    "Predykcja": {
+      "Kod_CCI": "N/A",
+      "Nazwa": "Brak jednoznacznej klasyfikacji",
+      "Podobieństwo": 0.5208
+    }
+  },
+  {
+    "GlobalId": "6H7I8J",
+    "Opis": "Płyta fundamentowa, IfcSlab, Płyta żelbetowa, fundamentowa, grubość 30cm",
+    "Predykcja": {
+      "Kod_CCI": "N/A",
+      "Nazwa": "Brak jednoznacznej klasyfikacji",
+      "Podobieństwo": 0.4735
+    }
+  }
+]
