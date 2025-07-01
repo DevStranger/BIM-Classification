@@ -42,12 +42,6 @@
     "full_text": "Słupy. Elementy pionowe przenoszące obciążenia"
   },
   {
-    "code": "21.51.10",
-    "name": "Fundamenty",
-    "definition": "Elementy przenoszące obciążenia budynku na grunt",
-    "full_text": "Fundamenty. Elementy przenoszące obciążenia budynku na grunt"
-  },
-  {
     "code": "22.11.10",
     "name": "Dachy",
     "definition": "Elementy osłaniające budynek od góry",
@@ -60,9 +54,15 @@
     "full_text": "Schody. Elementy komunikacyjne łączące kondygnacje"
   },
   {
-  "code": "24.61.10",
-  "name": "Balustrady",
-  "definition": "Elementy zabezpieczające przy krawędziach schodów, balkonów lub tarasów",
-  "full_text": "Balustrady. Elementy zabezpieczające przy krawędziach schodów, balkonów lub tarasów"
+    "code": "24.61.10",
+    "name": "Balustrady",
+    "definition": "Elementy zabezpieczające przy krawędziach schodów, balkonów lub tarasów",
+    "full_text": "Balustrady. Elementy zabezpieczające przy krawędziach schodów, balkonów lub tarasów"
+  },
+  {
+    "code": "21.51.10",
+    "name": "Fundamenty",
+    "definition": "Elementy przenoszące obciążenia budynku na grunt",
+    "full_text": "Fundamenty. Płyta fundamentowa. Betonowe fundamenty. Elementy żelbetowe, nośne, przenoszące ciężar budynku na grunt"
   }
   ]
