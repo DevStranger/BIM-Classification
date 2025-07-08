@@ -3,7 +3,7 @@
 - [x] github and virtual environment setup
 - [x] base model setup: sentence-transformers + cosine similarity — multilingual MiniLM tested and running
 - [x] project planning
-- [ ] further research 
+- [x] further research 
 
 ## Week 2 – Evaluation Metrics & Exploratory Analysis
 
