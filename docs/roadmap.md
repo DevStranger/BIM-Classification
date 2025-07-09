@@ -14,6 +14,7 @@
 - [ ] extract snapshot of CCI and Uniclass classes for baseline model
 - [ ] begin manual few-shot labeling (20–30 samples with CCI or ARCHICAD codes)
 - [ ] research hybrid classification strategy (embedding + classification layer)
+- [ ] update plan.md 😊
 
 ## Week 3 – Preparing for TSDAE Pretraining
 
