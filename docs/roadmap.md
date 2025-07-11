@@ -11,7 +11,7 @@
 - [x] define export format for BIMVision: GlobalId, IFC type, BaseQuantities, PSet, ARCHICAD classification
 - [ ] create IFC property-to-text parser (BaseQuantities + PSet descriptions)
 - [ ] prepare unlabeled IFC-like corpus (~500–1000) for TSDAE pretraining
-- [ ] extract snapshot of CCI and Uniclass classes for baseline model
+- [x] extract snapshot of CCI and Uniclass classes for baseline model
 - [ ] begin manual few-shot labeling (20–30 samples with CCI or ARCHICAD codes)
 - [ ] research hybrid classification strategy (embedding + classification layer)
 - [ ] update plan.md 😊
