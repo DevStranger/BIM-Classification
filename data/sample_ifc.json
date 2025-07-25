@@ -1,0 +1,3070 @@
+[
+  {
+    "ObjectID": {
+      "id": 8207818283634040294
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "Demystifying IFC with a playful scene using diverse building elements and compositions.",
+        "Unit": ""
+      },
+      {
+        "Name": "FileName",
+        "Value": "Building-Architecture.ifc",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "2Ndyd$OSX7s9A04nc4lyye",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCPROJECT",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "ifc silly sample scene - project",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "File Header",
+        "Properties": [
+          {
+            "Name": "Authorization",
+            "Value": "None",
+            "Unit": ""
+          },
+          {
+            "Name": "Description",
+            "Value": "ViewDefinition [ReferenceView_V1.2]",
+            "Unit": ""
+          },
+          {
+            "Name": "Implementation Level",
+            "Value": "2;1",
+            "Unit": ""
+          },
+          {
+            "Name": "Originating System",
+            "Value": "SketchUp 2024 (24.0.594)",
+            "Unit": ""
+          },
+          {
+            "Name": "Preprocessor Version",
+            "Value": "IFC-manager for SketchUp (5.3.3)",
+            "Unit": ""
+          },
+          {
+            "Name": "Schema Identifiers",
+            "Value": "IFC4",
+            "Unit": ""
+          },
+          {
+            "Name": "Time Stamp",
+            "Value": "2024-11-14T11:09:12",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 7797139100457435131
+    },
+    "Attributes": [
+      {
+        "Name": "CompositionType",
+        "Value": "COMPLEX",
+        "Unit": ""
+      },
+      {
+        "Name": "Description",
+        "Value": "A sample scene environment, showcasing the surrounding landscape.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "23sFQGRy90RxVbRHD9iSE2",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCSITE",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "environment - site",
+        "Unit": ""
+      },
+      {
+        "Name": "RefElevation",
+        "Value": "0",
+        "Unit": "mm"
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "5700.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-1300.00000074506",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "5700.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-1300.00000074506",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "-29642.5343470563",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "-14985.7157784588",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-1300.00000074506",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "38542.5343470566",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "24285.7157784588",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "7000.00000074513",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 11467047530654617526
+    },
+    "Attributes": [
+      {
+        "Name": "CompositionType",
+        "Value": "PARTIAL",
+        "Unit": ""
+      },
+      {
+        "Name": "Description",
+        "Value": "Smoke curls from a friendly chimney, promising warmth within this idyllic hilltop house.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "1Pbuu0tu59NfhrTsztVBK1",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCSITE",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "house - site",
+        "Unit": ""
+      },
+      {
+        "Name": "RefElevation",
+        "Value": "0",
+        "Unit": "mm"
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "5700.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-598.69203099732",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "5700.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-598.69203099732",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "1.06581410364015E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "8.88178419700125E-12",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-598.69203099732",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "8900.00000000022",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "9299.99999999998",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "6298.69203099739",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 17185688238491770506
+    },
+    "Attributes": [
+      {
+        "Name": "CompositionType",
+        "Value": "ELEMENT",
+        "Unit": ""
+      },
+      {
+        "Name": "Description",
+        "Value": "The main building structure, providing shelter and space.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "0c$N1CTon2BB2Sp89385G8",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBUILDING",
+        "Unit": ""
+      },
+      {
+        "Name": "LongName",
+        "Value": "house - building",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Single-family house",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_BuildingCommon",
+        "Properties": [
+          {
+            "Name": "ConstructionMethod",
+            "Value": "new construction",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "5700.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-598.69203099732",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "5700.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-598.69203099732",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "2700.00000000004",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "2699.99999999986",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-598.69203099732",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "6200.00000000019",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "6600.00000000013",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "6298.69203099739",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": [
+      {
+        "System": "CCI Construction",
+        "Code": "E-AAA",
+        "Source": "Molio",
+        "Edition": "1.0",
+        "EditionDate": "2023-01-23"
+      }
+    ]
+  },
+  {
+    "ObjectID": {
+      "id": 9100044147392307138
+    },
+    "Attributes": [
+      {
+        "Name": "CompositionType",
+        "Value": "ELEMENT",
+        "Unit": ""
+      },
+      {
+        "Name": "Description",
+        "Value": "The ground floor, forming the base level of the building.",
+        "Unit": ""
+      },
+      {
+        "Name": "Elevation",
+        "Value": "-1.80477854883065E-12",
+        "Unit": "mm"
+      },
+      {
+        "Name": "Guid",
+        "Value": "1Ano2ZUxnEIvVQ_beukl8b",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBUILDINGSTOREY",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "00 groundfloor",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "3375.73593128808",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-250.000000000034",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "3375.73593128808",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-250.000000000034",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "3000.00000000001",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "2999.99999999998",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-250.000000000034",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "5600.00000000019",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "6000.00000000004",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "3625.73593128812",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 5839333575016842773
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A solid, site-cast concrete floor, providing a strong foundation.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "3zR0BOEcLADRKln4HYporH",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCSLAB",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "floor",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "slab on grade",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932083.920025",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_SlabCommon",
+        "Properties": [
+          {
+            "Name": "IsExternal",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "LoadBearing",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Status",
+            "Value": "UNSET",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Qto_SlabBaseQuantities",
+        "Properties": [
+          {
+            "Name": "Depth",
+            "Value": "250.000000000095",
+            "Unit": "mm"
+          },
+          {
+            "Name": "NetArea",
+            "Value": "25.7499999999917",
+            "Unit": "m2"
+          },
+          {
+            "Name": "NetVolume",
+            "Value": "6.43750000000038",
+            "Unit": "m3"
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "6.08402217494586E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-250.000000000034",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "6.08402217494586E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-250.000000000034",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "3199.99999999993",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "3000",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-250.000000000034",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "5200.00000000024",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "5800.0000000001",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "250.000000000095",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 8944588668968244743
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A solid outer wall, forming the right front side of the house.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "1AQAupaRP1txwK1AGiN61V",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCWALL",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "house - outer wall - house right front",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "solidwall",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932083.920023",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_WallCommon",
+        "Properties": [
+          {
+            "Name": "IsExternal",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "LoadBearing",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Status",
+            "Value": "UNSET",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Qto_WallBaseQuantities",
+        "Properties": [
+          {
+            "Name": "Length",
+            "Value": "1799.99999999997",
+            "Unit": "mm"
+          },
+          {
+            "Name": "NetSideArea",
+            "Value": "6.34632467631788",
+            "Unit": "m2"
+          },
+          {
+            "Name": "NetVolume",
+            "Value": "1.26926493526358",
+            "Unit": "m3"
+          },
+          {
+            "Name": "Width",
+            "Value": "200.000000000001",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "3375.73593128808",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-250.000000000008",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "3375.73593128808",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-250.000000000008",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "7000.00000000008",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "2999.99999999998",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-250.000000000008",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "200.000000000024",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "1799.99999999996",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "3625.73593128809",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 11157568377521558075
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A solid outer wall, forming the right back side of the house.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "3wdauVJT5Fx9drrREiDqA$",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCWALL",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "house - outer wall - house right back",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "solidwall",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932083.920031",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_WallCommon",
+        "Properties": [
+          {
+            "Name": "IsExternal",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "LoadBearing",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Status",
+            "Value": "UNSET",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Qto_WallBaseQuantities",
+        "Properties": [
+          {
+            "Name": "Length",
+            "Value": "4200.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "NetSideArea",
+            "Value": "8.9280909114028",
+            "Unit": "m2"
+          },
+          {
+            "Name": "NetVolume",
+            "Value": "1.78561818228216",
+            "Unit": "m3"
+          },
+          {
+            "Name": "Width",
+            "Value": "200.000000000179",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "1975.73593128809",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-250.00000000003",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "1975.73593128809",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-250.00000000003",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "8400.00000000002",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "4799.99999999993",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-250.00000000003",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "200.000000000184",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "4200.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "2225.73593128812",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 12926028960391108271
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A solid outer wall, forming the left side of the house.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "0OfZwWc8j9QP5uX8xPTxDH",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCWALL",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "house - outer wall - house left",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "solidwall",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932083.920032",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_WallCommon",
+        "Properties": [
+          {
+            "Name": "IsExternal",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "LoadBearing",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Status",
+            "Value": "UNSET",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Qto_WallBaseQuantities",
+        "Properties": [
+          {
+            "Name": "Length",
+            "Value": "6000.00000000004",
+            "Unit": "mm"
+          },
+          {
+            "Name": "NetSideArea",
+            "Value": "21.1544155877284",
+            "Unit": "m2"
+          },
+          {
+            "Name": "NetVolume",
+            "Value": "4.23088311754589",
+            "Unit": "m3"
+          },
+          {
+            "Name": "Width",
+            "Value": "200.00000000001",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "3375.73593128808",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-250.000000000005",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "3375.73593128808",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-250.000000000005",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "3000.00000000001",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "2999.99999999998",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-250.000000000005",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "200.000000000017",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "6000.00000000004",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "3625.73593128809",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 16301782334028037517
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A wall designed to house and protect plumbing systems, keeping the pipes snug and secure.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "1uS5vfZPn9R8PlAaVd73on",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCWALL",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "plumbing wall",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "plumbingwall",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932083.2037918.920027",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_WallCommon",
+        "Properties": [
+          {
+            "Name": "IsExternal",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "LoadBearing",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Status",
+            "Value": "UNSET",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Qto_WallBaseQuantities",
+        "Properties": [
+          {
+            "Name": "Length",
+            "Value": "3800.00000000009",
+            "Unit": "mm"
+          },
+          {
+            "Name": "NetSideArea",
+            "Value": "6.86258138697726",
+            "Unit": "m2"
+          },
+          {
+            "Name": "NetVolume",
+            "Value": "0.164701953288021",
+            "Unit": "m3"
+          },
+          {
+            "Name": "Width",
+            "Value": "24.0000000000826",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "2225.73593128809",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "4.79616346638068E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "2225.73593128809",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "4.79616346638068E-11",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "8150.00000000003",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "5000.00000000003",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "4.79616346638068E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "24.0000000000791",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "3800.00000000008",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "2225.73593128804",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 13387520459102398690
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A chimney, standing tall and proud, guiding smoke away from the home.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "3dkFAzOGrAIuOzY_RdrdVv",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCCHIMNEY",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "house - chimney",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "flue",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932083.2023772",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 373049599714529684
+    },
+    "Attributes": [
+      {
+        "Name": "Guid",
+        "Value": "0bo7_K6az7AA$4RxkSNVNM",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBUILDINGELEMENTPROXY",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Group#19",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932083.2037918",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 9397543591813901990
+    },
+    "Attributes": [
+      {
+        "Name": "CompositionType",
+        "Value": "ELEMENT",
+        "Unit": ""
+      },
+      {
+        "Name": "Description",
+        "Value": "A cozy space, perfect for relaxation and family gatherings.",
+        "Unit": ""
+      },
+      {
+        "Name": "ElevationWithFlooring",
+        "Value": "0",
+        "Unit": "mm"
+      },
+      {
+        "Name": "Guid",
+        "Value": "0xY$LvXaDEswJDk_VU74C_",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCSPACE",
+        "Unit": ""
+      },
+      {
+        "Name": "LongName",
+        "Value": "living room",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "living room",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "living area",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Profile",
+        "Properties": [
+          {
+            "Name": "ProfileName",
+            "Value": "",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_SpaceCommon",
+        "Properties": [
+          {
+            "Name": "GrossPlannedArea",
+            "Value": "18.5",
+            "Unit": "m2"
+          },
+          {
+            "Name": "HandicapAccessible",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "IsExternal",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "NetPlannedArea",
+            "Value": "18.5",
+            "Unit": "m2"
+          },
+          {
+            "Name": "PubliclyAccessible",
+            "Value": "0",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "2200.00000000009",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "4.84057238736568E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "2200.00000000009",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "4.84057238736568E-11",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "3199.99999999999",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "4999.99999999987",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "4.84057238736568E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "4950.00000000015",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "3800.00000000023",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "2200.00000000005",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Membership",
+        "Properties": [
+          {
+            "Name": "Zone",
+            "Value": "house - living space",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 8078862799989468754
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "The heart of the home, where meals are prepared and shared.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "2e9pghUJbBqR4jTInsONQT",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCFURNITURE",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "kitchen",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "kitchen",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932083.920029.919427.2003222",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "900.000000000049",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "4.84057238736568E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "900.000000000049",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "4.84057238736568E-11",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "7550.00000000009",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "5499.99999999994",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "4.84057238736568E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "600.000000000002",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "1600.00000000003",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "900",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 258622048349812703
+    },
+    "Attributes": [
+      {
+        "Name": "Guid",
+        "Value": "1wADrO19H3w980h1wUyXLk",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBUILDINGELEMENTPROXY",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Group#18",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932083.920029.919427.2037909",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 15666811139843116374
+    },
+    "Attributes": [
+      {
+        "Name": "CompositionType",
+        "Value": "ELEMENT",
+        "Unit": ""
+      },
+      {
+        "Name": "Description",
+        "Value": "A welcoming entry hall, the first impression of the home.",
+        "Unit": ""
+      },
+      {
+        "Name": "ElevationWithFlooring",
+        "Value": "0",
+        "Unit": "mm"
+      },
+      {
+        "Name": "Guid",
+        "Value": "18QhMtUIXBvQktPHXXxs7H",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCSPACE",
+        "Unit": ""
+      },
+      {
+        "Name": "LongName",
+        "Value": "entry hall",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "entry hall",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "hallway",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Profile",
+        "Properties": [
+          {
+            "Name": "ProfileName",
+            "Value": "",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_SpaceCommon",
+        "Properties": [
+          {
+            "Name": "GrossPlannedArea",
+            "Value": "6.08",
+            "Unit": "m2"
+          },
+          {
+            "Name": "HandicapAccessible",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "IsExternal",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "NetPlannedArea",
+            "Value": "6.08",
+            "Unit": "m2"
+          },
+          {
+            "Name": "PubliclyAccessible",
+            "Value": "0",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "2200",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-8.88178419700125E-13",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "2200",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-8.88178419700125E-13",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "3200.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "3199.99999999997",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-8.88178419700125E-13",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "3800.00000000006",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "1599.99999999997",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "2200",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Membership",
+        "Properties": [
+          {
+            "Name": "Zone",
+            "Value": "house - living space",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 16163060861938499201
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A sturdy roof, sheltering the house from the elements.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "2iPwJwpPDCSgMheXwk9cBT",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCROOF",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "house - roof",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "gable_roof",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932084",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_RoofCommon",
+        "Properties": [
+          {
+            "Name": "IsExternal",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Status",
+            "Value": "UNSET",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "5700.00000000002",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "1475.7359312879",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "5700.00000000002",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "1475.7359312879",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "2700.00000000004",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "2699.99999999986",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "1475.7359312879",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "6200.00000000019",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "6600.00000000013",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "4224.26406871211",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 17731553277156352032
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A roof slab that's got it all covered",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "0ZTBBPo6f6bxqV2K7Oelrq",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCSLAB",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "house - roof - slab left",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "roof",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932084.902510",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_SlabCommon",
+        "Properties": [
+          {
+            "Name": "IsExternal",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "LoadBearing",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "PitchAngle",
+            "Value": "45",
+            "Unit": "rad"
+          },
+          {
+            "Name": "Status",
+            "Value": "UNSET",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Qto_SlabBaseQuantities",
+        "Properties": [
+          {
+            "Name": "Depth",
+            "Value": "300.000000000153",
+            "Unit": "mm"
+          },
+          {
+            "Name": "NetArea",
+            "Value": "22.4011428279772",
+            "Unit": "m2"
+          },
+          {
+            "Name": "NetVolume",
+            "Value": "6.7203428483966",
+            "Unit": "m3"
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "5700.00000000002",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "2875.73593128799",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "5700.00000000002",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "2875.73593128799",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "2700.00000000004",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "2699.99999999987",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "2875.73593128799",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "2400.00000000004",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "6600.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "2824.26406871202",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 2271830919337716496
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A roof slab that's got it all covered",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "12UVOn4wvAJPMUExKdZLb8",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCSLAB",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "house - roof - slab right",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "roof",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932084.902511",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_SlabCommon",
+        "Properties": [
+          {
+            "Name": "IsExternal",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "LoadBearing",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Status",
+            "Value": "UNSET",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Qto_SlabBaseQuantities",
+        "Properties": [
+          {
+            "Name": "Depth",
+            "Value": "300.000000000039",
+            "Unit": "mm"
+          },
+          {
+            "Name": "NetArea",
+            "Value": "31.2116933215689",
+            "Unit": "m2"
+          },
+          {
+            "Name": "NetVolume",
+            "Value": "9.36350799647189",
+            "Unit": "m3"
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "5700.00000000001",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "1475.7359312879",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "5700.00000000001",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "1475.7359312879",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "5100.00000000009",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "2699.99999999986",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "1475.7359312879",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "3800.00000000014",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "6600.00000000013",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "4224.26406871211",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 3262156561058324195
+    },
+    "Attributes": [
+      {
+        "Name": "Guid",
+        "Value": "1yP7NInQz5uQzbiOpVFFJr",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCSPATIALZONE",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "house - gross volume",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "gross volume",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "5700.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-299.999999999995",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "5700.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-299.999999999995",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "3000.00000000002",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "3000.00000000001",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-299.999999999995",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "5600.00000000004",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "6000.00000000009",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "6000.00000000007",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 5017032515732112852
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "A layer of ground floor sand bedding, providing a stable base.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "3_4VN63S96DfWiJjgG8j1C",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBUILDINGELEMENTPROXY",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "sand bedding",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "subgrade",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.979946.932086",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "-250.000000000001",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-598.69203099732",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "-250.000000000001",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-598.69203099732",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "3350.00000000004",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "3349.99999999994",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-598.69203099732",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "4900",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "5300.00000000007",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "348.692030997319",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 6549575054603663534
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "The local position for coordination of aspect models.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "2F44QMqSH3TOkM$SZoqCBe",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBUILDINGELEMENTPROXY",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "origin",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "origin",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1027891.1032757",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "999.999999999998",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-1.77635683940025E-12",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "999.999999999998",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-1.77635683940025E-12",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "1.06581410364015E-11",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "8.88178419700125E-12",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-1.77635683940025E-12",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "1000",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "1000",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "1000",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 18117683799014633536
+    },
+    "Attributes": [
+      {
+        "Name": "Description",
+        "Value": "The reference point for transforming the local engineering coordinate system into the coordinate reference system of the underlying map.",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "3Fit2Fad92zf2f6aWdJtF5",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBUILDINGELEMENTPROXY",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "geo-reference",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "origin",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "454425.1032696",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "ifc silly sample scene - project",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Single-family house",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "00 groundfloor",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "-1200.00000074506",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-1300.00000074506",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "-1200.00000074506",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-1300.00000074506",
+            "Unit": "mm"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "-29642.5343470563",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "-14985.7157784588",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-1300.00000074506",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "1626.42126782147",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "1683.54315501682",
+            "Unit": "mm"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "100",
+            "Unit": "mm"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  }
+]
