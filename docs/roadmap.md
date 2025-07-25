@@ -19,8 +19,8 @@
 ## Week 3 – Preparing for TSDAE Pretraining
 
 - [x] test the data extractor for BIMVision
-- [ ] extract sample IFC and test the model
-- [ ] create IFC property-to-text parser (BaseQuantities + PSet descriptions)
+- [x] extract sample IFC and test the model
+- [x] create IFC property-to-text parser (BaseQuantities + PSet descriptions)
 - [ ] prepare unlabeled IFC-like corpus (~500–1000) for TSDAE pretraining
 - [ ] research
  
