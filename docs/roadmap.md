@@ -13,15 +13,16 @@
 - [ ] prepare unlabeled IFC-like corpus (~500–1000) for TSDAE pretraining
 - [x] extract snapshot of CCI and Uniclass classes for baseline model
 - [ ] begin manual few-shot labeling (20–30 samples with CCI or ARCHICAD codes)
-- [ ] research hybrid classification strategy (embedding + classification layer)
-- [ ] update plan.md 😊
+- [X] research hybrid classification strategy (embedding + classification layer)
+- [X] update plan.md 😊
 
 ## Week 3 – Preparing for TSDAE Pretraining
 
-- [ ] to do
-- [ ] to do
-- [ ] to do
-- [ ] to do
+- [x] test the data extractor for BIMVision
+- [ ] extract sample IFC and test the model
+- [ ] create IFC property-to-text parser (BaseQuantities + PSet descriptions)
+- [ ] prepare unlabeled IFC-like corpus (~500–1000) for TSDAE pretraining
+- [ ] research
  
 ## Week 4 – TSDAE Training & Embedding Comparison
 
