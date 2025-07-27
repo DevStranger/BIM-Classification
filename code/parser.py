@@ -3,8 +3,8 @@ import csv
 import os
 
 # Ścieżki do plików
-input_path = "../data/parsed_tsdae_dataset.json"         # plik JSON z BIMVision
-output_path = "../data/parsed_tsdae_dataset.csv"         # plik wynikowy CSV
+input_path = "../data/file02.json"         # plik JSON z BIMVision
+output_path = "../data/file02.csv"         # plik wynikowy CSV
 
 # Wczytaj dane wejściowe
 with open(input_path, "r", encoding="utf-8") as f:
