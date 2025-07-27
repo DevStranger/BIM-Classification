@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "../models/tsdae_model_parsed_ifc\\",
+  "_name_or_path": "C:\\Users\\chlip/.cache\\torch\\sentence_transformers\\sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2\\",
   "architectures": [
     "BertModel"
   ],
