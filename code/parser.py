@@ -46,7 +46,7 @@ os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
 # Zapis do pliku CSV
 with open(output_path, "w", encoding="utf-8", newline="") as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=["GlobalId", "IfcType", "Name", "Text"])
+    writer = csv.DictWriter(csvfile, fieldnames=["GlobalId", "Name", "Text"])
     writer.writeheader()
     writer.writerows(parsed_rows)
 
