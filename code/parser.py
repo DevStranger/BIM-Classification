@@ -36,7 +36,6 @@ for obj in data:
 
     parsed_rows.append({
         "GlobalId": global_id,
-        "IfcType": ifc_type,
         "Name": name,
         "Text": full_text.strip()
     })
