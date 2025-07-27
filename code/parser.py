@@ -3,15 +3,8 @@ import csv
 import os
 
 # Ścieżki do plików
-input_path = "../data/sample_ifc.json"         # plik JSON z BIMVision
-output_path = "../data/ifc_objects.csv"        # plik wynikowy CSV
-
-# Lista interesujących typów IFC
-component_ifc_types = {
-    "IFCWALL", "IFCDOOR", "IFCWINDOW", "IFCSLAB",
-    "IFCCOLUMN", "IFCBEAM", "IFCSTAIR", "IFCRAILING",
-    "IFCFURNISHINGELEMENT"
-}
+input_path = "../data/parsed_tsdae_dataset.json"         # plik JSON z BIMVision
+output_path = "../data/parsed_tsdae_dataset.csv"         # plik wynikowy CSV
 
 # Wczytaj dane wejściowe
 with open(input_path, "r", encoding="utf-8") as f:
@@ -23,11 +16,6 @@ parsed_rows = []
 for obj in data:
     attributes = obj.get("Attributes", [])
     property_sets = obj.get("PropertySets", [])
-
-    # Znajdź typ IFC
-    ifc_type = next((a["Value"] for a in attributes if a["Name"] == "IfcEntity"), None)
-    if not ifc_type or ifc_type.upper() not in component_ifc_types:
-        continue
 
     global_id = next((a["Value"] for a in attributes if a["Name"] == "Guid"), "N/A")
     name = next((a["Value"] for a in attributes if a["Name"] == "Name"), "N/A")
