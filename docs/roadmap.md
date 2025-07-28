@@ -22,7 +22,7 @@
 - [x] extract sample IFC and test the model
 - [x] create IFC property-to-text parser (BaseQuantities + PSet descriptions)
 - [ ] prepare unlabeled IFC-like corpus (~500–1000) for TSDAE pretraining
-- [ ] research
+- [x] research
  
 ## Week 4 – TSDAE Training & Embedding Comparison
 
