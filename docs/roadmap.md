@@ -24,7 +24,7 @@
 - [ ] prepare unlabeled IFC-like corpus (~500–1000) for TSDAE pretraining
 - [x] research
  
-## Week 4 – TSDAE Training & Embedding Comparison
+## Week 4 – TSDAE Training & Few-shot fine-tuning
 
  - [ ] Preparing files for TSDAE (bSDD + IFC)
  - [ ] TSDAE pretraining
@@ -33,13 +33,13 @@
  - [ ] Integration of a classification layer on top of embeddings (experimental stage)
  - [ ] research, research, research ...
 
-## Week 5 – Few-shot Data Annotation & Setup
+## Week 5 –
 
 - [ ] to do
 - [ ] to do
 - [ ] to do
 
-## Week 6 – Few-shot Fine-tuning & Evaluation
+## Week 6 – 
 
 - [ ] to do
 - [ ] to do
