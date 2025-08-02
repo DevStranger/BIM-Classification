@@ -4,9 +4,6 @@ import csv
 INPUT_PATH = "../data/fewshot_dataset/desc02.json"
 OUTPUT_PATH = "../data/fewshot_dataset/file02.csv"
 
-# Biała lista systemów klasyfikacji, które chcemy zachować
-ALLOWED_SYSTEMS = ["CCI", "Uniclass"]
-
 def extract_property_text(property_sets):
     props = []
     for pset in property_sets:
@@ -16,6 +13,12 @@ def extract_property_text(property_sets):
             if name and value:
                 props.append(f"{name}: {value}")
     return "; ".join(props)
+
+def is_allowed_classification(system):
+    if not system:
+        return False
+    system_lower = system.lower()
+    return "cci" in system_lower or "uniclass" in system_lower
 
 def parse_objects(data):
     parsed_rows = []
@@ -29,7 +32,7 @@ def parse_objects(data):
         ifc_type = attributes.get("IfcEntity", "")
         name = attributes.get("Name", "")
 
-        # Budujemy pełny opis tekstowy (Name + właściwości)
+        # Budujemy pełny opis tekstowy
         text_parts = []
         if name:
             text_parts.append(name)
@@ -38,11 +41,11 @@ def parse_objects(data):
             text_parts.append(property_text)
         full_text = " — ".join(text_parts)
 
-        # Przechodzimy przez klasyfikacje
+        # Klasyfikacje
         for cls in classifications:
             system = cls.get("System", "")
             code = cls.get("Code", "")
-            if system in ALLOWED_SYSTEMS and code:
+            if is_allowed_classification(system) and code:
                 parsed_rows.append({
                     "GlobalId": guid,
                     "IfcType": ifc_type,
