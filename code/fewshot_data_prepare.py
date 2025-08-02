@@ -1,8 +1,8 @@
 import json
 import csv
 
-INPUT_PATH = "../data/fewshot_dataset/desc01.json"
-OUTPUT_PATH = "../data/fewshot_dataset/file01.csv"
+INPUT_PATH = "../data/fewshot_dataset/desc02.json"
+OUTPUT_PATH = "../data/fewshot_dataset/file02.csv"
 
 # Biała lista systemów klasyfikacji, które chcemy zachować
 ALLOWED_SYSTEMS = ["CCI", "Uniclass"]
