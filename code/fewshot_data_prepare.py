@@ -1,7 +1,7 @@
 import json
 import csv
 
-INPUT_PATH = "../data/fewshot_dataset/file01.json"
+INPUT_PATH = "../data/fewshot_dataset/desc01.json"
 OUTPUT_PATH = "../data/fewshot_dataset/file01.csv"
 
 # Biała lista systemów klasyfikacji, które chcemy zachować
@@ -29,7 +29,7 @@ def parse_objects(data):
         ifc_type = attributes.get("IfcEntity", "")
         name = attributes.get("Name", "")
 
-        # Zbuduj pełny opis tekstowy (Name + właściwości)
+        # Budujemy pełny opis tekstowy (Name + właściwości)
         text_parts = []
         if name:
             text_parts.append(name)
