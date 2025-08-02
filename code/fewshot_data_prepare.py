@@ -70,7 +70,7 @@ def main():
     # Zapis do CSV
     with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as csvfile:
         fieldnames = ["GlobalId", "IfcType", "Name", "Text", "ClassificationSystem", "ClassificationCode"]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')        
         writer.writeheader()
         writer.writerows(parsed)
 
