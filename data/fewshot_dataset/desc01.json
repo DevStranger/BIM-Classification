@@ -1,0 +1,1523 @@
+[
+  {
+    "ObjectID": {
+      "id": 8528003823962331713
+    },
+    "Attributes": [
+      {
+        "Name": "FileName",
+        "Value": "CCI-PL_ScianaDziałowa.ifc",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "1uYG8OJJP3eOb0Uxzmqom3",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCPROJECT",
+        "Unit": ""
+      },
+      {
+        "Name": "LongName",
+        "Value": "Przebudowa budynku 9 istniejącego - Pasikonik budynek handlowy",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Budynek 9",
+        "Unit": ""
+      },
+      {
+        "Name": "Phase",
+        "Value": "Projekt koncepcyjny",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "File Header",
+        "Properties": [
+          {
+            "Name": "Description",
+            "Value": "ViewDefinition [CoordinationView_V2.0]",
+            "Unit": ""
+          },
+          {
+            "Name": "Implementation Level",
+            "Value": "2;1",
+            "Unit": ""
+          },
+          {
+            "Name": "Originating System",
+            "Value": "22.0.2.392 - Exporter 22.0.2.392 - Zastępczy Interfejs Użytkownika 22.0.2.392",
+            "Unit": ""
+          },
+          {
+            "Name": "Preprocessor Version",
+            "Value": "The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013",
+            "Unit": ""
+          },
+          {
+            "Name": "Schema Identifiers",
+            "Value": "IFC2X3",
+            "Unit": ""
+          },
+          {
+            "Name": "Time Stamp",
+            "Value": "2023-05-16T15:09:13",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 8528003823962331715
+    },
+    "Attributes": [
+      {
+        "Name": "CompositionType",
+        "Value": "ELEMENT",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "1uYG8OJJP3eOb0Uxzmqom1",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCSITE",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "ul. Klonowa 3",
+        "Unit": ""
+      },
+      {
+        "Name": "RefElevation",
+        "Value": "0",
+        "Unit": "m"
+      },
+      {
+        "Name": "RefLatitude",
+        "Value": "52°15'0\"",
+        "Unit": ""
+      },
+      {
+        "Name": "RefLongitude",
+        "Value": "21°0'0\"",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "3.03000000000001",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "3.03000000000001",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "53.0319504166089",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "431.782364539194",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "19.0745295323235",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "13.0170132251139",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "3.05000000000001",
+            "Unit": "m"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 8528003823962331712
+    },
+    "Attributes": [
+      {
+        "Name": "CompositionType",
+        "Value": "ELEMENT",
+        "Unit": ""
+      },
+      {
+        "Name": "Guid",
+        "Value": "1uYG8OJJP3eOb0Uxzmqom2",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBUILDING",
+        "Unit": ""
+      },
+      {
+        "Name": "LongName",
+        "Value": "Pasikonik budynek handlowy",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Budynek 9",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Postal address",
+        "Properties": [
+          {
+            "Name": "Address lines",
+            "Value": "Klonowa 3",
+            "Unit": ""
+          },
+          {
+            "Name": "Country",
+            "Value": "Polska",
+            "Unit": ""
+          },
+          {
+            "Name": "Description",
+            "Value": "Działka z budynkiem 9 - Pasikonik",
+            "Unit": ""
+          },
+          {
+            "Name": "Postal code",
+            "Value": "01-100",
+            "Unit": ""
+          },
+          {
+            "Name": "Purpose",
+            "Value": "SITE",
+            "Unit": ""
+          },
+          {
+            "Name": "Region",
+            "Value": "BIMowickie",
+            "Unit": ""
+          },
+          {
+            "Name": "Town",
+            "Value": "SMARToszewo",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_BuildingCommon",
+        "Properties": [
+          {
+            "Name": "IsLandmarked",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "NumberOfStoreys",
+            "Value": "1",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "3.03000000000001",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "3.03000000000001",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "53.0319504166089",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "431.782364539194",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "19.0745295323235",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "13.0170132251139",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "3.05000000000001",
+            "Unit": "m"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 6970883320676085822
+    },
+    "Attributes": [
+      {
+        "Name": "CompositionType",
+        "Value": "ELEMENT",
+        "Unit": ""
+      },
+      {
+        "Name": "Elevation",
+        "Value": "0",
+        "Unit": "m"
+      },
+      {
+        "Name": "Guid",
+        "Value": "1uYG8OJJP3eOb0Ux_FCFxD",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBUILDINGSTOREY",
+        "Unit": ""
+      },
+      {
+        "Name": "LongName",
+        "Value": "Poziom 0",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Poziom 0",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "Poziom:8mm Head",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Pset_BuildingStoreyCommon",
+        "Properties": [
+          {
+            "Name": "AboveGround",
+            "Value": "9.88131291682493E-324",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "3.03000000000001",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "3.03000000000001",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "53.0319504166089",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "431.782364539194",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "19.0745295323235",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "13.0170132251139",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "3.05000000000001",
+            "Unit": "m"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 983393928921165566
+    },
+    "Attributes": [
+      {
+        "Name": "Guid",
+        "Value": "2PCnyP6NPEBhDTr6LLyNlc",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCWALLSTANDARDCASE",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Ściany : Ściana podstawowa : Ściana 24",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "Ściana podstawowa:Ściana 24",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "1844450",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Profile",
+        "Properties": [
+          {
+            "Name": "ProfileName",
+            "Value": "",
+            "Unit": ""
+          },
+          {
+            "Name": "XDim",
+            "Value": "10.75000000037",
+            "Unit": "m"
+          },
+          {
+            "Name": "YDim",
+            "Value": "0.24",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "cci_ADMINISTRACYJNE",
+        "Properties": [
+          {
+            "Name": "cci_CFkod",
+            "Value": "B",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_CFnumer",
+            "Value": "09",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_CFopis",
+            "Value": "Ściany",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_CTkod",
+            "Value": "AD",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_CTnumer",
+            "Value": "09",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_CTopis",
+            "Value": "System ścienny",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_KodZlozony",
+            "Value": "[L]B09.AD09",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_bSPolska_Status",
+        "Properties": [
+          {
+            "Name": "Status",
+            "Value": "Nowy",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_ConcreteElementGeneral",
+        "Properties": [
+          {
+            "Name": "FireRating",
+            "Value": "EI 60",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_QuantityTakeOff",
+        "Properties": [
+          {
+            "Name": "Reference",
+            "Value": "Ściana 24",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_ReinforcementBarPitchOfWall",
+        "Properties": [
+          {
+            "Name": "Reference",
+            "Value": "Ściana 24",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_WallCommon",
+        "Properties": [
+          {
+            "Name": "Combustible",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Compartmentation",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "ExtendToStructure",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "FireRating",
+            "Value": "EI 60",
+            "Unit": ""
+          },
+          {
+            "Name": "IsExternal",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "LoadBearing",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Reference",
+            "Value": "Ściana 24",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "Poziom 0",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "3.03000000000001",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "3.03000000000001",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "59.709",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "440.58",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "10.75000000037",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "0.240000000000009",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "3.05000000000001",
+            "Unit": "m"
+          }
+        ]
+      }
+    ],
+    "Classifications": [
+      {
+        "System": "CCI",
+        "Code": "[L]AD",
+        "Source": "",
+        "Edition": "",
+        "EditionDate": ""
+      },
+      {
+        "System": "CCI",
+        "Code": "[L]B",
+        "Source": "",
+        "Edition": "",
+        "EditionDate": ""
+      }
+    ]
+  },
+  {
+    "ObjectID": {
+      "id": 14664799865979629812
+    },
+    "Attributes": [
+      {
+        "Name": "Guid",
+        "Value": "1IDH6qz$5CXRCQhWC8JFW7",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCOPENINGELEMENT",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Ściany : Ściana podstawowa : Ściana 24",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "Opening",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "1850216",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Profile",
+        "Properties": [
+          {
+            "Name": "ProfileName",
+            "Value": "Gr. 24cm 100x222 2xL19",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "Poziom 0",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "2.39",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "2.39",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "-0.02",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "60.509",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "440.58",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "-0.02",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "1.2",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "0.240000000000009",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "2.41",
+            "Unit": "m"
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  },
+  {
+    "ObjectID": {
+      "id": 14114570624623559056
+    },
+    "Attributes": [
+      {
+        "Name": "Guid",
+        "Value": "1IDH6qz$5CXRCQhX08JFW5",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCBEAM",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Belka : Nadproże: przekrój 2xL19",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "Nadproże:przekrój 2xL19",
+        "Unit": ""
+      },
+      {
+        "Name": "Tag",
+        "Value": "1850218",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "cci_ADMINISTRACYJNE",
+        "Properties": [
+          {
+            "Name": "cci_COkod",
+            "Value": "ULE",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_COnumer",
+            "Value": "07",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_COopis",
+            "Value": "Belka",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_KodZlozony",
+            "Value": "[L]B09.AD09.ULE07",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_BeamCommon",
+        "Properties": [
+          {
+            "Name": "FireRating",
+            "Value": "REI 60",
+            "Unit": ""
+          },
+          {
+            "Name": "IsExternal",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "LoadBearing",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Reference",
+            "Value": "przekrój 2xL19",
+            "Unit": ""
+          },
+          {
+            "Name": "Span",
+            "Value": "1",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Pset_bSPolska_Status",
+        "Properties": [
+          {
+            "Name": "Status",
+            "Value": "Nowy",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_ConcreteElementGeneral",
+        "Properties": [
+          {
+            "Name": "FireRating",
+            "Value": "REI 60",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_QuantityTakeOff",
+        "Properties": [
+          {
+            "Name": "Reference",
+            "Value": "przekrój 2xL19",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_ReinforcementBarPitchOfBeam",
+        "Properties": [
+          {
+            "Name": "Reference",
+            "Value": "przekrój 2xL19",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "Poziom 0",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "2.39000000000011",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "2.20000000000011",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "2.39000000000011",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "2.20000000000011",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "60.509",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "440.58",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "2.20000000000011",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "1.2",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "0.240000000000009",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "0.189999999999998",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Membership",
+        "Properties": [
+          {
+            "Name": "Layer",
+            "Value": "S-BEAM-____-OTLN",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": [
+      {
+        "System": "CCI",
+        "Code": "[L]AD",
+        "Source": "",
+        "Edition": "",
+        "EditionDate": ""
+      },
+      {
+        "System": "CCI",
+        "Code": "[L]B",
+        "Source": "",
+        "Edition": "",
+        "EditionDate": ""
+      },
+      {
+        "System": "CCI",
+        "Code": "[L]ULE",
+        "Source": "",
+        "Edition": "",
+        "EditionDate": ""
+      }
+    ]
+  },
+  {
+    "ObjectID": {
+      "id": 9358198888538874385
+    },
+    "Attributes": [
+      {
+        "Name": "Guid",
+        "Value": "1_AeLI3Ej5seVggccHPkMZ",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCDOOR",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "Drzwi : Drzwi wewnętrzne jednoskrzydłowe płaskie : 950 x 2175mm Lewe",
+        "Unit": ""
+      },
+      {
+        "Name": "ObjectType",
+        "Value": "Drzwi wewnętrzne jednoskrzydłowe płaskie:950 x 2175mm Lewe",
+        "Unit": ""
+      },
+      {
+        "Name": "OverallHeight",
+        "Value": "2.24635000000001",
+        "Unit": "m"
+      },
+      {
+        "Name": "OverallWidth",
+        "Value": "1.0927",
+        "Unit": "m"
+      },
+      {
+        "Name": "Tag",
+        "Value": "1859311",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "cci_ADMINISTRACYJNE",
+        "Properties": [
+          {
+            "Name": "cci_COkod",
+            "Value": "QQC",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_COnumer",
+            "Value": "04",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_COopis",
+            "Value": "Drzwi",
+            "Unit": ""
+          },
+          {
+            "Name": "cci_KodZlozony",
+            "Value": "[L]B09.AD09.QQC04",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_bSPolska_Status",
+        "Properties": [
+          {
+            "Name": "Status",
+            "Value": "Nowy",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_ConcreteElementGeneral",
+        "Properties": [
+          {
+            "Name": "FireRating",
+            "Value": "EI 30",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_DoorCommon",
+        "Properties": [
+          {
+            "Name": "FireRating",
+            "Value": "EI 30",
+            "Unit": ""
+          },
+          {
+            "Name": "IsExternal",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Reference",
+            "Value": "950 x 2175mm Lewe",
+            "Unit": ""
+          },
+          {
+            "Name": "SelfClosing",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "SmokeStop",
+            "Value": "1",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Pset_QuantityTakeOff",
+        "Properties": [
+          {
+            "Name": "Reference",
+            "Value": "950 x 2175mm Lewe",
+            "Unit": ""
+          }
+        ]
+      },
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "Poziom 0",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "2.24635",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "0",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "2.24635",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "0",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "1",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "60.56265",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "440.525",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "0",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "1.0927",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "0.315000000000964",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "2.24635",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Membership",
+        "Properties": [
+          {
+            "Name": "Layer",
+            "Value": "A-DOOR-____-OTLN",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": [
+      {
+        "System": "CCI",
+        "Code": "[L]AD",
+        "Source": "",
+        "Edition": "",
+        "EditionDate": ""
+      },
+      {
+        "System": "CCI",
+        "Code": "[L]B",
+        "Source": "",
+        "Edition": "",
+        "EditionDate": ""
+      },
+      {
+        "System": "Uniformat",
+        "Code": "C1020300",
+        "Source": "https://www.csiresources.org/standards/uniformat",
+        "Edition": "1998",
+        "EditionDate": ""
+      },
+      {
+        "System": "CCI",
+        "Code": "[L]QQC",
+        "Source": "",
+        "Edition": "",
+        "EditionDate": ""
+      }
+    ]
+  },
+  {
+    "ObjectID": {
+      "id": 3252543893915439363
+    },
+    "Attributes": [
+      {
+        "Name": "Guid",
+        "Value": "0lCci9x0zBd88tlRBTmwUU",
+        "Unit": ""
+      },
+      {
+        "Name": "IfcEntity",
+        "Value": "IFCGRID",
+        "Unit": ""
+      },
+      {
+        "Name": "Name",
+        "Value": "OSIE - BUD 9",
+        "Unit": ""
+      }
+    ],
+    "PropertySets": [
+      {
+        "Name": "Location",
+        "Properties": [
+          {
+            "Name": "Project",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Building",
+            "Value": "Budynek 9",
+            "Unit": ""
+          },
+          {
+            "Name": "Storey",
+            "Value": "Poziom 0",
+            "Unit": ""
+          },
+          {
+            "Name": "Top Elevation",
+            "Value": "0",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bottom Elevation",
+            "Value": "0",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Top Elevation",
+            "Value": "0",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Bottom Elevation",
+            "Value": "0",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Geometry",
+        "Properties": [
+          {
+            "Name": "Has Own Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Children Have Geometry",
+            "Value": "0",
+            "Unit": ""
+          },
+          {
+            "Name": "Global X",
+            "Value": "53.0319504166089",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Y",
+            "Value": "431.782364539194",
+            "Unit": "m"
+          },
+          {
+            "Name": "Global Z",
+            "Value": "0",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Length",
+            "Value": "19.0745295323235",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Width",
+            "Value": "13.0170132251139",
+            "Unit": "m"
+          },
+          {
+            "Name": "Bounding Box Height",
+            "Value": "0",
+            "Unit": "m"
+          }
+        ]
+      },
+      {
+        "Name": "Membership",
+        "Properties": [
+          {
+            "Name": "Layer",
+            "Value": "S-GRID-____-OTLN",
+            "Unit": ""
+          }
+        ]
+      }
+    ],
+    "Classifications": []
+  }
+]
