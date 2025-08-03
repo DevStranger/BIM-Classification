@@ -3,8 +3,8 @@ import csv
 import os
 
 # Ścieżki do plików
-input_path = "../data/testing.json"         # plik JSON z BIMVision
-output_path = "../data/testing.csv"         # plik wynikowy CSV
+input_path = "../data/bsdd_cleared.json"                 # plik JSON
+output_path = "../data/tsdae_dataset/file02.csv"         # plik wynikowy CSV
 
 # Wczytaj dane wejściowe
 with open(input_path, "r", encoding="utf-8") as f:
@@ -50,4 +50,5 @@ with open(output_path, "w", encoding="utf-8", newline="") as csvfile:
     writer.writerows(parsed_rows)
 
 print(f"Zapisano {len(parsed_rows)} komponentów do pliku: {output_path}")
+
 
