@@ -26,11 +26,11 @@
  
 ## Week 4 – TSDAE Training & Few-shot fine-tuning
 
- - [ ] Preparing files for TSDAE (bSDD + IFC)
+ - [x] Preparing files for TSDAE (bSDD + IFC)
  - [ ] TSDAE pretraining
  - [x] Preparing files for few-shot fine-tuning
  - [x] Few-shot fine-tuning
- - [ ] Integration of a classification layer on top of embeddings (experimental stage)
+ - [x] Integration of a classification layer on top of embeddings (experimental stage)
  - [x] research, research, research ...
 
 ## Week 5 –
