@@ -33,11 +33,13 @@
  - [x] Integration of a classification layer on top of embeddings (experimental stage)
  - [x] research, research, research ...
 
-## Week 5 –
+## Week 5 – Data preparation & Contrastive Learning Research
 
-- [ ] to do
-- [ ] to do
-- [ ] to do
+- [ ] TSDAE data preparation
+- [ ] few-shot fine-tuning data preparation & cleaning
+- [ ] contrastive methods research
+- [ ] classification layer testine
+- [ ] general research
 
 ## Week 6 – 
 
