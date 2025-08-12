@@ -36,10 +36,10 @@
 ## Week 5 – Data preparation & Contrastive Learning Research
 
 - [ ] TSDAE data preparation
-- [ ] few-shot fine-tuning data preparation & cleaning
-- [ ] contrastive methods research
-- [ ] classification layer testine
-- [ ] general research
+- [x] few-shot fine-tuning data preparation & cleaning
+- [x] contrastive methods research
+- [ ] classification layer testing
+- [x] general research
 
 ## Week 6 – 
 
