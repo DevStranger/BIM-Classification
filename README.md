@@ -56,6 +56,9 @@ cd code
 ```
 streamlit run app.py
 ```
+_*the suggested sample data file is ```/data/ifc_objects.csv```_
+
+-------------------------
 
 If you would like to see how the model was trained and enhanced, you need to:
 
