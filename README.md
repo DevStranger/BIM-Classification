@@ -37,7 +37,6 @@ git clone https://github.com/DevStranger/BIM-Classification.git
 
 ```
 cd BIM-Classification
-cd code
 ```
 
 3. Install the required libraries
@@ -46,7 +45,13 @@ cd code
 pip install -r requirements.txt
 ```
 
-4. Run the app :)
+4. Go into the right folder
+
+```
+cd code
+```
+
+5. Run the app :)
 
 ```
 streamlit run app.py
