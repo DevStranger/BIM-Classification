@@ -91,9 +91,27 @@ Contents of the notebooks (in order of creation or recent updates):
 
 *This section will include quantitative evaluation metrics (accuracy, F1-score, similarity scores) and qualitative analysis of classification results once available.*
 
-## Simple GUI Demo
+## Simple GUI Demo 
+_*using the sample data file ```/data/ifc_objects.csv```_
 
-*will apear here in a second*
+### After running the app, you will see a simple GUI asking you to upload a file in either ```.csv``` or ```.json``` format
+<img width="1800" height="432" alt="Zrzut ekranu 2025-08-31 153209" src="https://github.com/user-attachments/assets/12afa8a3-d984-47d9-b763-6bafd5105a63" />
+
+### When you upload the file, the app will let you know how many IFC objects have been found inside of it
+<img width="1723" height="723" alt="Zrzut ekranu 2025-08-31 153420" src="https://github.com/user-attachments/assets/1274a7b3-ecab-4cdd-984b-1887a4a2ceca" />
+
+### Now we need to press the button to start the classification process (it might take a while depending on the file size and its contents)
+<img width="1731" height="189" alt="Zrzut ekranu 2025-08-31 153426" src="https://github.com/user-attachments/assets/64f1aff6-5ff6-437a-b7d5-4400c4619dce" />
+
+### After the algorithm is done, you will see the classification results in a table containing the best 3 calculated matches along with their score and the result of the classification layer
+<img width="1736" height="377" alt="Zrzut ekranu 2025-08-31 153433" src="https://github.com/user-attachments/assets/118d8e34-7ea5-4592-8d71-f743b68f2673" />
+<img width="1772" height="412" alt="Zrzut ekranu 2025-08-31 153448" src="https://github.com/user-attachments/assets/34a63f6f-f97d-4359-b1cd-6af134d2a310" />
+
+### You can choose to download the classification results in a ```.csv``` file
+<img width="424" height="89" alt="Zrzut ekranu 2025-08-31 153453" src="https://github.com/user-attachments/assets/061cb301-066f-4cb8-b656-fcfe7e864320" />
+
+### Done!
+<img width="445" height="121" alt="Zrzut ekranu 2025-08-31 153503" src="https://github.com/user-attachments/assets/5f4060f7-84d6-4bad-b29f-d80ac9c04d37" />
 
 ## Disclaimer
 This project was developed as part of an internship at Datacomp IT in Kraków, Poland. The work presented here reflects the scope and objectives of the internship and is intended for educational and prototypical purposes.
