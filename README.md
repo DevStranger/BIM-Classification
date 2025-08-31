@@ -88,8 +88,20 @@ Contents of the notebooks (in order of creation or recent updates):
 - **_tester.ipynb_**- used throughout the project as a multipurpose tool, integrating several key workflows: it handles final evaluation of IFC object classification, performs post-processing and reranking of predictions, supports clustering of bSDD classes, and combines hybrid approaches including cosine similarity, few-shot embeddings, and a trained classifier. It also includes augmentation steps for IFC descriptions and generates final labels in CSV and JSON formats, alongside visualizations and summary statistics for analysis.
   
 ## Results and Evaluation
+*_conducted using the sample data file ```/data/ifc_objects.csv```_
 
-*This section will include quantitative evaluation metrics (accuracy, F1-score, similarity scores) and qualitative analysis of classification results once available.*
+### Distribution of similarity values
+<img width="940" height="539" alt="Zrzut ekranu 2025-08-31 113952" src="https://github.com/user-attachments/assets/8a57dbb3-3bc2-4505-95c0-f8e69fb7a360" />
+
+### Classification results
+<img width="520" height="387" alt="Zrzut ekranu 2025-08-31 114040" src="https://github.com/user-attachments/assets/b7c5a649-eebc-4423-8d63-159cae147fe3" />
+
+### Classification results with cluster distribution
+<img width="956" height="508" alt="Zrzut ekranu 2025-08-31 120147" src="https://github.com/user-attachments/assets/51ed9df7-3e0b-40ad-a27d-380007f4566b" />
+
+### Classes distribution along a cluster
+<img width="957" height="573" alt="Zrzut ekranu 2025-08-31 120201" src="https://github.com/user-attachments/assets/f9809c98-2f33-4b3d-baa3-62be047e76d4" />
+<img width="384" height="201" alt="Zrzut ekranu 2025-08-31 120153" src="https://github.com/user-attachments/assets/a324faf4-4f07-481c-b435-02edeb6d8ecd" />
 
 ## Simple GUI Demo 
 _*using the sample data file ```/data/ifc_objects.csv```_
