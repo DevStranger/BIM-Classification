@@ -9,7 +9,7 @@ The project also explores enhancing embeddings quality using contrastive learnin
 - automatic extraction and parsing of textual descriptions from IFC files
 - embedding generation of BIM element descriptions and class labels using multilingual sentence-transformers
 - semantic similarity matching across multiple classification dictionaries (CCI, Uniclass, etc.)
-- optional fine-tuning via TSDAE and few-shot learning to boost accuracy
+- optional fine-tuning via contrastive learning and few-shot learning to boost accuracy
 - evaluation using top-k accuracy, cosine similarity scores, F1-score and other metrics
 - export of classification results compatible with BIMVision via JSON/CSV format for seamless integration
 - modular pipeline designed for extensibility and further dictionary additions
